@@ -7,6 +7,7 @@ Log Me In
 ## Write up
 1. Opening the website gives us a plain login form
 2. Viewing the source <kbd>Ctrl + U</kbd> and analyzing the javascript file in `/assets/js/script.js` gives us this file:
+
 ```javascript
 function login(){
 	if($('#user').val() === ""){
@@ -41,5 +42,6 @@ function surpass(){
 	});
 }
 ```
+
 3. The `surpass()` function seems suspicious. We can then just run `surpass()` in the browser console <kbd>Ctrl + Shift + I</kbd> to make a POST request to flag.php with the token.
 4. This gives us the flag: `COMPFEST9{javascript_to_java_is_like_carpet_to_car}`
