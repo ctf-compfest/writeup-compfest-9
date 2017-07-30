@@ -10,5 +10,9 @@
     * [OpenWallpaper](01-hackerclass/01-web-hacking/100-OpenWallpaper.md)
     * [I Forgot](01-hackerclass/01-web-hacking/100-i-forgot.md)
 
-* [Week 02 - Forensics & Cryptography](01-hackerclass/02-forensics-&-cryptography/README.md)
-    * [Can You Get The Image?](01-hackerclass/02-forensics-&-cryptography/75-Can-You-Get-The-Image.md)
+* [Week 02 - Forensics & Cryptography](01-hackerclass/02-forensics-cryptography/README.md)
+    * [Weird Characters](01-hackerclass/02-forensics-cryptography/25-weird-characters.md)
+    * [GGEZ](01-hackerclass/02-forensics-cryptography/25-GGEZ.md)
+    * [Musee du Louvre](01-hackerclass/02-forensics-cryptography/50-musee-du-louvre.md)
+    * [Selachii](01-hackerclass/02-forensics-cryptography/50-selachii.md)
+    * [Can You Get The Image?](01-hackerclass/02-forensics-cryptography/75-Can-You-Get-The-Image.md)
