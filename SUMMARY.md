@@ -16,4 +16,4 @@
     * [Musee du Louvre](01-hackerclass/02-forensics-cryptography/50-musee-du-louvre.md)
     * [Selachii](01-hackerclass/02-forensics-cryptography/50-selachii.md)
     * [Can You Get The Image?](01-hackerclass/02-forensics-cryptography/75-Can-You-Get-The-Image.md)
-    * [AES 1](01-hackerclass/02-forensics-cryptography/126-AES-1.md)
+    * [AES 1](01-hackerclass/02-forensics-cryptography/125-AES-1.md)
