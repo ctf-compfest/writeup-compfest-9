@@ -17,3 +17,8 @@
     * [Selachii](01-hackerclass/02-forensics-cryptography/50-selachii.md)
     * [Can You Get The Image?](01-hackerclass/02-forensics-cryptography/75-Can-You-Get-The-Image.md)
     * [AES 1](01-hackerclass/02-forensics-cryptography/125-AES-1.md)
+
+* [Week 03 - Reverse Engineering & Binary Exploitation]((01-hackerclass/03-reverse-binary-exploitation/README.md)
+    * [Obfusjar](01-hackerclass/03-reverse-binary-exploitation/50-obsufjar.md)
+    * [Can you get the Password?](01-hackerclass/03-reverse-binary-exploitation/75-Can-You-Get-The-Password.md)
+    * [RPG](01-hackerclass/03-reverse-binary-exploitation/100-RPG.md)
