@@ -22,3 +22,7 @@
     * [Obfusjar](01-hackerclass/03-reverse-binary-exploitation/50-obfusjar.md)
     * [Can you get the Password?](01-hackerclass/03-reverse-binary-exploitation/75-Can-You-Get-The-Password.md)
     * [RPG](01-hackerclass/03-reverse-binary-exploitation/100-RPG.md)
+
+### Preliminary
+
+* [Jackpot](02-preliminary/150-jackpot.md)

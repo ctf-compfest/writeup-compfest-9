@@ -1,5 +1,5 @@
-Log Me In (25)
-==============
+Jackpot (150)
+=============
 
 ## Description
 [https://cf9-jackpot-dtbznhqsyf.now.sh/](https://cf9-jackpot-dtbznhqsyf.now.sh/)
